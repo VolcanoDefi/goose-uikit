@@ -2156,7 +2156,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/athenadefi",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2211,7 +2211,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
+        href: "https://twitter.com/DefiAthena",
     },
   //  {
   //      label: "Reddit",
