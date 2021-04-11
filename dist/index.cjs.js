@@ -2149,11 +2149,11 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/AthenaDefi/",
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "https://athena-defi.gitbook.io/athena-defi/",
             },
         //  {
         //      label: "Blog",
