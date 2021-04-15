@@ -2149,7 +2149,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/AthenaDefi/",
+                href: "https://github.com/SpaceDefi/",
             },
             {
                 label: "Docs",
@@ -2169,7 +2169,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/athenadefi",
+                href: "https://t.me/spacedefi1",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2224,7 +2224,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/DefiAthena",
+        href: "https://twitter.com/SpaceDefi1",
     },
   //  {
   //      label: "Reddit",

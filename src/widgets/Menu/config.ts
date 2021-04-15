@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/spacedefi/",
       },
       {
         label: "Docs",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/athenadefi",
+        href: "https://t.me/spacedefi1",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/DefiAthena",
+    href: "https://twitter.com/SpaceDefi1",
   },
 //
 //  label: "Reddit",
