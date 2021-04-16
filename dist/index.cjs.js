@@ -2153,7 +2153,7 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "https://athena-defi.gitbook.io/athena-defi/",
+                href: "https://spacedefi.gitbook.io/spacedefi/",
             },
         //  {
         //      label: "Blog",
