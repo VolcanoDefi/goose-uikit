@@ -2136,11 +2136,11 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/spacedefi/",
+                href: "https://github.com/VolcanoDefi/",
             },
             {
                 label: "Docs",
-                href: "https://spacedefi.gitbook.io/spacedefi/",
+                href: "https://gitbook.io/",
             },
          //   {
          //       label: "Blog",
@@ -2156,7 +2156,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/spacedefi1",
+                href: "https://t.me/modifyme",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2211,7 +2211,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SpaceDefi1",
+        href: "https://twitter.com/DefiVolcano",
     },
   //  {
   //      label: "Reddit",
@@ -2797,10 +2797,10 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#78039c",
-    primaryBright: "#78039c",
-    primaryDark: "#78039c",
-    secondary: "#C724B1",
+    primary: "#ffbd2e",
+    primaryBright: "#ffbd2e",
+    primaryDark: "#ffbd2e",
+    secondary: "#cf1020",
     success: "#31D0AA",
     warning: "#FFB237",
 };
@@ -2811,7 +2811,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { ba
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
-    secondary: "#C724B1", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
+    secondary: "#cf1020", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 

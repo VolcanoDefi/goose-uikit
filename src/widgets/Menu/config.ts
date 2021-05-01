@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/spacedefi/",
+        href: "https://github.com/VolcanoDefi/",
       },
       {
         label: "Docs",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/spacedefi1",
+        href: "https://t.me/modifyme",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/SpaceDefi1",
+    href: "https://twitter.com/DefiVolcano",
   },
 //
 //  label: "Reddit",
