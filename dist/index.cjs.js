@@ -2169,7 +2169,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/modifyme",
+                href: "https://t.me/volcanodefi",
             },
             // {
             //   label: "Bahasa Indonesia",

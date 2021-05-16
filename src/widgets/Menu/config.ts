@@ -1,4 +1,5 @@
 export const links = [
+    
   {
     label: "Home",
     icon: "HomeIcon",
@@ -120,7 +121,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/modifyme",
+        href: "https://t.me/volcanodefi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -182,7 +183,9 @@ export const socials = [
 //  icon: "RedditIcon",
 //  href: "https://www.reddit.com/r/GooseFinanceofficial",
 // },
+  
 ];
+
 
 export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
